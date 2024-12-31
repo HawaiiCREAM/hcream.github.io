@@ -7,8 +7,6 @@ plugins:
   - glightbox
 theme:
   name: material
-  logo: assets/malphit.jpg
-  favicon: assets/malphit.jpg
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
