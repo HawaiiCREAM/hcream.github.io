@@ -34,8 +34,6 @@ theme:
       primary: blue
       accent: teal
   features:
-    - navigation.instant
-    - navigation.instant.progress
     - navigation.prune
     - toc.integrate
     - navigation.top
