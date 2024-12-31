@@ -1,4 +1,3 @@
-``` yaml
 name: hcreamer # (1)!
 on:
   push:
@@ -29,28 +28,3 @@ jobs:
       - run: pip install mkdocs-material # (4)!
       - run: pip install mkdocs-glightbox
       - run: mkdocs gh-deploy --force
-```
-
-1.  You can change the name to your liking.
-
-2.  At some point, GitHub renamed `master` to `main`. If your default branch
-    is named `master`, you can safely remove `main`, vice versa.
-
-3.  Store the `cache_id` environmental variable to access it later during cache
-    `key` creation. The name is case-sensitive, so be sure to align it with `${{ env.cache_id }}`.
-
-    - The `--utc` option makes sure that each workflow runner uses the same time zone.
-    - The `%V` format assures a cache update once a week.
-    - You can change the format to `%F` to have daily cache updates.
-
-    You can read the [manual page] to learn more about the formatting options of the `date` command.
-
-4.  This is the place to install further [MkDocs plugins] or Markdown
-    extensions with `pip` to be used during the build:
-
-    ``` sh
-    pip install \
-      mkdocs-material \
-      mkdocs-awesome-pages-plugin \
-      ...
-    ```
