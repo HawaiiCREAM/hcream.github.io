@@ -37,5 +37,5 @@ description: Description of each of the members of HCREAM
 
       ---
 
-      I like socks
+      Sequential Monte Carlo Methods, Computer Vision, Generative Modeling
 </div>
