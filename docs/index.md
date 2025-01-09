@@ -1,7 +1,5 @@
 # Welcome to HCREAM
 
-(insert hook or something here)
-
 ## Mission Statement
 
 1.  Conduct cutting edge mathematical and scientific research inspired by real-world challenges faced by the Hawaii & Pacific Island (H&PI) community.
