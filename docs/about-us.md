@@ -10,7 +10,7 @@ description: Description of each of the members of HCREAM
       </figure>
 
       ---
-      Singular trajectories, hybrid control systems, and anime girls.
+      Singular trajectories and hybrid control systems.
 
   -   <figure markdown="span">
         ![jack](https://math.hawaii.edu/home/board/jack-mckee.jpg){ width="300" }
@@ -19,7 +19,7 @@ description: Description of each of the members of HCREAM
 
       ---
 
-      I like popes
+      Differential geometry and finite element methods.
 
   -   <figure markdown="span">
         ![sam](http://math.hawaii.edu/home/board/Samuel-Glickman.jpg){ width="300" }
@@ -27,8 +27,7 @@ description: Description of each of the members of HCREAM
       </figure>
 
       ---
-
-      I like dicks
+      Singular trajectories and discrete dynamical systems.
 
   -   <figure markdown="span">
         ![zain](https://avatars.githubusercontent.com/u/40334752){ width="300" }
@@ -37,5 +36,5 @@ description: Description of each of the members of HCREAM
 
       ---
 
-      Sequential Monte Carlo Methods, Computer Vision, Generative Modeling
+      Sequential Monte Carlo methods, computer vision, and generative modeling
 </div>
