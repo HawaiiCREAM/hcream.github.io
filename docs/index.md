@@ -10,11 +10,15 @@
 ## Vision Statement
 
 1.  A mathematical community dedicated to doing open science & developing technologies that enable community autonomy.
-2.  Insitutitions to listen to and value mathematical and scientific research.
+2.  Institutions to listen to and value mathematical and scientific research.
 3.  See an increase in perceived value of basic mathematical and scientific research.
 4.  See a community where the mathematical sciences flourish and scientific, data-backed ideas form the basis of solutions to problems faced by the H&PI community​​​​​​.
 5.  Availability of educational materials that go above & beyond the standard curriculum, making advanced topics accessible.
 6.  A community where existing power structures are held accountable to the people that they serve by clearly communicating the scientific and mathematical basis of the decisions they make to the public.
+
+## Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=fd9447339a4507cd376ab53d32f61154d7e62cc4b13e4025e1f7fed60732a7ac%40group.calendar.google.com&ctz=Pacific%2FHonolulu" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Funding
 

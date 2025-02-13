@@ -1,6 +1,9 @@
 ---
 title: About Us
 description: Description of each of the members of HCREAM
+hide:
+  - navigation
+  - toc
 ---
 
 <div class="grid cards" markdown>

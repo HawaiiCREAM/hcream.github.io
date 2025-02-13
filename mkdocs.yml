@@ -35,6 +35,9 @@ theme:
       accent: teal
   features:
     - navigation.prune
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
     - toc.integrate
     - navigation.top
     - search.suggest
