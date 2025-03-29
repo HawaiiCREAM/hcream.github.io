@@ -6,7 +6,13 @@ plugins:
       authors_profiles: true
   - glightbox
 theme:
+  font:
+    text: Atkinson Hyperlegible
   name: material
+  custom_dir: overrides
+  icon:
+    logo: bootstrap/logo
+  favicon: images/logo.png
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -38,6 +44,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.expand
+    - navigation.path
     - toc.integrate
     - navigation.top
     - search.suggest
@@ -50,7 +57,15 @@ markdown_extensions:
   - md_in_html
   - pymdownx.superfences
   - pymdownx.details
+  - pymdownx.snippets
   - admonition
+  - abbr
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js

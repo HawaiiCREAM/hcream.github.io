@@ -1,9 +1,12 @@
 # Welcome to HCREAM
-
+<figure markdown="span">
+  ![tea-time](images/tea-time.jpg){ width="1200" }
+</figure>
 ## Mission Statement
 
 1.  Conduct cutting edge mathematical and scientific research inspired by real-world challenges faced by the Hawaii & Pacific Island (H&PI) community.
-2.  Consult with institutions (civil organizations, higher education instititutions, state & local governments, etc.) on issues pertinent to the H&PI community that have a quantitative or mathematical component.
+2.  Consult with institutions on issues pertinent to the H&PI community that have a quantitative or mathematical component.
+*[institutions]: civil organizations, higher education institutions, state & local governments, etc.
 3.  Research educational methods driven by innovative learning techniques.
 4.  Conduct educational outreach within the H&PI to support STEM education and communication to motivate the study of mathematics.
 
@@ -22,4 +25,4 @@
 
 ## Funding
 
-HCREAM currently has no funding. If you are interested in funding HCREAM, please contact <tongalan@hawaii.edu>. Additionally, we are accepting donations through _Venmo_.
+HCREAM currently has no funding. If you are interested in funding HCREAM, please contact <tongalan@hawaii.edu>. Additionally, we are planning to accept donations through _Venmo_.
