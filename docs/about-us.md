@@ -26,7 +26,7 @@ hide:
 
   -   <figure markdown="span">
         ![sam](http://math.hawaii.edu/home/board/Samuel-Glickman.jpg){ width="300" }
-        <figcaption>Samual Glickman</figcaption>
+        <figcaption>Samuel Glickman</figcaption>
       </figure>
 
       ---
