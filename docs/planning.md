@@ -1,5 +1,5 @@
 ---
-title: Governing Policies and Documents
+title: Policies
 description: Description of current to-dos and finished beaurocracy for HCREAM
 ---
 

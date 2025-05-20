@@ -1,5 +1,5 @@
 ---
-title: Grad Student Handbook
+title: Student Handbook
 description: A brief on how a graduate student may apply to travel or be medically ill without being fired, or other things!
 ---
 
